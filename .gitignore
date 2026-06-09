@@ -1,0 +1,46 @@
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+.recommenders/
+
+# Build output
+bin/
+target/
+build/
+out/
+
+# Java compiled files
+*.class
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+
+# Logs
+*.log
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Packaged artifacts
+*.jar
+*.war
+*.ear
